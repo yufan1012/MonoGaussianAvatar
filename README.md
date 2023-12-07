@@ -19,10 +19,10 @@ Code is coming soon.
 ## Animation Results
 ### Self-drive
 
-https://github.com/ShunyuanZheng/GPS-Gaussian/assets/33752042/36d06407-fadc-485a-864b-961fbd4d4b60
+https://github.com/yufan1012/MonoGaussianAvatar/assets/70511608/66b5b3c1-ee4d-45b5-9c1e-94a3f89d593b
 
 ### Cross-identity Reenactment
 
-https://github.com/ShunyuanZheng/GPS-Gaussian/assets/33752042/d392673c-13cd-442d-aa94-6629c9edfb3c
+https://github.com/yufan1012/MonoGaussianAvatar/assets/70511608/03e9beae-cfc0-4682-bce6-6d4f440dc0d1
 
-https://github.com/ShunyuanZheng/GPS-Gaussian/assets/33752042/371171ca-46a9-427b-9549-9d65fc4b135d
+
