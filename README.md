@@ -6,7 +6,7 @@
 
 <sup>1</sup>Harbin Institute of Technology <sup>2</sup>Tsinghua Univserity <sup>3</sup>Communication University of China
 
-### [Projectpage](https://yufan1012.github.io/MonoGaussianAvatar) · [Paper](https://arxiv.org/pdf/2312.02155.pdf) · [Video](https://www.youtube.com/embed/3UvBkyPc-oc)
+### [Projectpage](https://yufan1012.github.io/MonoGaussianAvatar) · [Paper]() · [Video](https://www.youtube.com/embed/3UvBkyPc-oc)
 
 </div>
 
