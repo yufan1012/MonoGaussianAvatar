@@ -1,6 +1,6 @@
 # Monogaussianavatar: Monocular gaussian point-based head avatar
 ## [Paper](https://dl.acm.org/doi/abs/10.1145/3641519.3657499) | [Video Youtube](https://www.youtube.com/embed/3UvBkyPc-oc) | [Project Page](https://yufan1012.github.io/MonoGaussianAvatar)
-[Yufan Chen](https://yufan1012.github.io/)<sup>&dagger;,1</sup>, [Lizhen Wang](https://lizhenwangt.github.io/)<sup>2</sup>, [Qijing Li](https://www.liuyebin.com/student.html)<sup>2</sup>, [Hongjiang Xiao](https://www.semanticscholar.org/author/Hongjiang-Xiao/2747760)<sup>3</sup>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<sup>*,1</sup>, [Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun))<sup>1</sup>, [Yebin Liu](http://www.liuyebin.com)<sup>2</sup>
+[Yufan Chen](https://yufan1012.github.io/)<sup>&dagger;,1</sup>, [Lizhen Wang](https://lizhenwangt.github.io/)<sup>2</sup>, [Qijing Li](https://www.liuyebin.com/student.html)<sup>2</sup>, [Hongjiang Xiao](https://www.semanticscholar.org/author/Hongjiang-Xiao/2747760)<sup>3</sup>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<sup>*,1</sup>, [Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun)<sup>1</sup>, [Yebin Liu](http://www.liuyebin.com)<sup>2</sup>
 
 <p><sup>1</sup>Harbin Institute of Technology &nbsp;&nbsp;<sup>2</sup>Tsinghua Univserity &nbsp;&nbsp;<sup>3</sup>Communication University of China
 <br><sup>*</sup>Corresponding author &nbsp;&nbsp;<sup>&dagger;</sup>Work done during an internship at Tsinghua Univserity<p>
