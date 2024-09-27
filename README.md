@@ -30,7 +30,6 @@ cd gaussian-splatting/
 pip install -e submodules/diff-gaussian-rasterization
 cd ..
 ```
-* Install realtime requirements: `cd ../monogaussianavatar; pip install -r requirement_realtime.txt`
 
 * Download [FLAME model](https://flame.is.tue.mpg.de/download.php), choose **FLAME 2020** and unzip it, copy 'generic_model.pkl' into `./code/flame/FLAME2020`
 ## Preparing dataset
