@@ -10,9 +10,10 @@
 <p><sup>1</sup>Harbin Institute of Technology &nbsp;&nbsp;<sup>2</sup>Tsinghua Univserity &nbsp;&nbsp;<sup>3</sup>Communication University of China
 <br><sup>*</sup>Corresponding author &nbsp;&nbsp;<sup>&dagger;</sup>Work done during an internship at Tsinghua Univserity<p>
 
+<img src="assets/teaser.png" width="800" height="350"/> 
+
 </div>
 
-<img src="assets/teaser.png" width="800" height="350"/> 
 ## Getting Started
 * Create a conda or python environment and activate. For e.g., `conda create -n monogshead python=3.9; conda activate monogshead`.
 * Install PyTorch 1.11.0 with `conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch`. This version works with both PyTorch3d and functorch.
